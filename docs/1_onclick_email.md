@@ -1,0 +1,4 @@
+- signin into n8n
+- create a project
+- screenshort:
+- <img width="933" height="497" alt="image" src="https://github.com/user-attachments/assets/9483b251-4c0d-4925-aab5-0ddaed07e289" />
